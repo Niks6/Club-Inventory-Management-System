@@ -99,8 +99,8 @@ If you're using Git and want to avoid committing sensitive files, create a `.git
 
 For queries or suggestions, feel free to reach out:
 
-* 📧 Email: [yourname@example.com](mailto:codeisforcoders@gmail.com)
-* 💼 LinkedIn: [YourProfile](https://linkedin.com/in/nik-sh)
+* 📧 Email: [codeisforcoders@gmail.com](mailto:codeisforcoders@gmail.com)
+* 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/nik-sh)
 
 ---
 
